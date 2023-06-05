@@ -11,3 +11,4 @@ The analysis was conducted using Excel.
 
 # Dashboard and Analysis
 
+![Sales performance Dashboard](image/salesdashboard.jpg)
