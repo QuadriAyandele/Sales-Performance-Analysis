@@ -10,5 +10,6 @@ The dataset used for this analysis was downloaded from kaggle website. The datas
 The analysis was conducted using Excel.
 
 # Dashboard and Analysis
+I designed a dashboard to understand the Superstore sales performance. This dashboard is effective at displaying the sales performance in each category at the superstore, allowing the stakeholders to make informed decisions. 
 
 ![Sales performance Dashboard](image/salesdashboard.jpg)
